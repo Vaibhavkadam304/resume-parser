@@ -1,0 +1,87 @@
+{
+    "PersonalDetails": {
+      "Name": "Vaibhav Kadam",
+      "Education": "Forth Year Undergraduate | Electronic and Telecommunication Engineering",
+      "Email": "vaibhav.kadam20@vit.edu",
+      "PhoneNumber": "+91 7709020962"
+    },
+    "Experience": [
+      {
+        "Title": "Software Engineer Intern",
+        "Company": "Spark Innovation",
+        "Duration": "Jan 2024 - Present",
+        "Responsibilities": [
+        "Developed an AI/ML project for automated license plate detection of cars and bikes using CCTV cameras.",
+          "Developed a COVID-19 website to check the availability of vaccines in nearby areas."
+        ]
+      }
+    ],
+    "Projects": [
+      {
+        "Name": "ShopWisely: Chatbot-Enhanced E-Commerce Experience",
+        "Date": "April 9, 2024",
+        "Deployment": "Netlify",
+        "Details": [
+          "Proposed system provides a free platform for small and emerging businesses in the arts and crafts domain.",
+            "Website is developed using React and Python RapidAPI deployed via Netlify for multi-device support.",
+          "Included with UPI payment, customer data managed with Google spreadsheets and API Spreadsheets, tutorial videos, and a feedback form. Admin is notified by email after submitting user feedback."
+        ]
+      },
+      {
+        "Name": "Smart advertising system using web scraping in Java",
+        "Date": "Nov 2022",
+        "Deployment": "GitHub",
+        "Details": [
+          " Proposal of Java-based smart advertising system, interface utilizing the Swing Framework.",
+            "Backend is made by using JDBC to ensure smooth communication between frontend and server.",
+          "System has a unique feature of web-scraping functionality to retrieve relevant ads from various shopping websites. This enables users to store retrieved information in local storage for future access."
+        ]
+      }
+    ],
+    "Profiles": {
+       "GitHub": "VaibhavKadam1007",
+      "HackerRank": "vaibhav_kadam20",
+      "LeetCode": "kadam123"
+    },
+    "Education": {
+      "Degree": "B.Tech",
+       "Field": "Electronics and Telecommunication Engg",
+      "Institution": "Vishwakarma Institute of Technology, Pune",
+      "Years": "2021 – 2024",
+      "CGPA": "7.56"
+    },
+    "TechnicalSkills": {
+      "ProgrammingLanguages": ["C++", "Python", "Java", "JavaScript"],
+      "Courseworks": [
+        "Data Structures and Algorithms",
+        "Object-Oriented Programming",
+        "Database Management Systems",
+         "Networking",
+        "Application Development",
+         "React Native App development",
+        "ReactJS"
+      ],
+      "ServerSideTechnology": ["NodeJs", "PHP"],
+       "DatabaseManagementSystem": ["MySQL", "MongoDB"]
+    },
+    "Achievements": {
+      "Papers": [
+         "Published Papers in Springer",
+         "Real Time Food Monitoring and Quality Alert System",
+        "Smart City Website for Business, Healthcare, and Education"
+      ],
+      "Publication": {
+         "Journal": "International Journal of Innovative Research in Technology",
+        "Title": "Sports Biomechanics"
+      },
+      "Certificates": [
+         "Stanford Online: Supervised Machine Learning: Regression and Classification by Andrew Ng",
+        "Simplilearn: Introduction to Data Analytics"
+      ],
+      "Hackathons": [
+         "Smart India Hackathon",
+        "INGENIOUS’ 22 HACKATHON"
+      ]
+    }
+  }
+  
